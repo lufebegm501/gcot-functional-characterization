@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the article below."
 title: "SGoTGraph: automatic functional characterization of generated chains of thought"
+repository-code: "https://github.com/lufebegm501/gcot-functional-characterization"
 authors:
   - family-names: Becerra-Monsalve
     given-names: Luis F.
